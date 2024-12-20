@@ -93,7 +93,7 @@
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamesMeta&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook,css,cmake,html" alt="JamesMeta" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamesMeta&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook,css,cmake,html,roff,tex,tcl" alt="JamesMeta" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JamesMeta&show_icons=true&locale=en&theme=dark" alt="JamesMeta" /></p>
 
