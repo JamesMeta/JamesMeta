@@ -63,9 +63,6 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
   </a>
-  <a href="https://jfrog.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" alt="jfrog" width="40" height="40"/>
-  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
