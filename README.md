@@ -12,7 +12,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/harshpanchal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="harshpanchal01" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/JamesMeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="JamesMeta" height="40" width="40" /></a>
 <a href="mailto:harshpanchalv@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="40" width="40" /></a>
 </p>
 
@@ -93,8 +93,8 @@
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshPanchal01&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook,css,cmake,html" alt="HarshPanchal01" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamesMeta&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook,css,cmake,html" alt="JamesMeta" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshPanchal01&show_icons=true&locale=en&theme=dark" alt="HarshPanchal01" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JamesMeta&show_icons=true&locale=en&theme=dark" alt="JamesMeta" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshPanchal01&theme=dark" alt="HarshPanchal01" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JamesMeta&theme=dark" alt="JamesMeta" /></p>
