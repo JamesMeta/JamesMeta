@@ -54,15 +54,6 @@
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android-studio" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/>
-  </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
@@ -71,9 +62,6 @@
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
   </a>
   <a href="https://jfrog.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" alt="jfrog" width="40" height="40"/>
@@ -86,9 +74,6 @@
   </a>
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
-  </a>
-  <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="servicenow" width="40" height="40"/>
   </a>
 </p>
 
