@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  🔭 I'm currently working on creating <strong>HelloChef</strong><br>
+  🔭 I'm currently working on creating <strong>EconomyCraft</strong><br>
   <br>
   🌱 I'm currently learning <strong>Flutter<br>
 </p>
