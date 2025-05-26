@@ -6,7 +6,7 @@
 <p align="center">
   🔭 I'm currently working on creating <strong>EconomyCraft</strong><br>
   <br>
-  🌱 I'm currently learning <strong>Web Hosting<br>
+  🌱 I'm currently learning how to <strong>Web Host<br>
 </p>
 
 
