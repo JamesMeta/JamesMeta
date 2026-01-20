@@ -4,9 +4,9 @@
 
 
 <p align="center">
-  🔭 I'm currently working on creating <strong>EconomyCraft</strong><br>
+  🔭 I'm currently working on improving <strong>EconomyCraft & OneFinance</strong><br>
   <br>
-  🌱 I'm currently learning how to <strong>Web Host<br>
+  🌱 I'm currently learning how to build with<strong>Electron + Vue<br>
 </p>
 
 
