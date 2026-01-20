@@ -6,7 +6,7 @@
 <p align="center">
   🔭 I'm currently working on improving <strong>EconomyCraft & OneFinance</strong><br>
   <br>
-  🌱 I'm currently learning how to build with<strong>Electron + Vue<br>
+  🌱 I'm currently learning how to build with <strong>Electron + Vue<br>
 </p>
 
 
