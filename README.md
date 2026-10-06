@@ -3,9 +3,9 @@
 <h3 align="center">And I'm a Professional</h3>
 
 <p align="center">
-  🔭 I'm currently working on improving <strong>EconomyCraft, OneFinance & Rank My Roast</strong><br>
+  🔭 I'm currently working on improving <strong>EconomyCraft, MyMenu</strong><br>
   <br>
-  🌱 I'm currently learning how to build with <strong>Electron + Vue</strong>
+  🌱 I'm currently learning how to build with <strong>Flutter</strong>
 </p>
 
 
